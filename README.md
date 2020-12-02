@@ -1,8 +1,5 @@
 ### Hello, I'm Nathan 👋
 
-[![Website](https://img.shields.io/website?label=My Website&style=for-the-badge&url=https%3A%2F%2Fellisn.com)](https://ellisn.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/Nathan?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/ellisn12581/)
-
 ## I'm currently a Student
 ### I'm currently in the last year of my A-Levels (Physics, Computer Science (doh) and IT). As my main hobby I like to play with technologies and develop Software, manage my own server, create apps etc. My current project is to bring the smart home into one app, utilizing the cloud (my server), an Raspberry Pi (which acts as a centeral hub) and a different range of apps that will run on the users broswer of choice and their ## phone (currently only on iOS). My next personal project will be to start the long journey of learning C++, and eventually creating my own basic Game Engine.
 
