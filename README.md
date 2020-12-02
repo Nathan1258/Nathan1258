@@ -49,12 +49,9 @@ No Activity tracked this Week
 <!--END_SECTION:waka-->
 
 
-<details>
-  <summary>:zap: My GitHub Stats (starting to use GitHub more, gimme a chance)</summary>
+### 😅 My GitHub Stats (starting to use GitHub more, gimme a chance)
 
-  <img align="left" alt="nathan's GitHub Stats" src="https://git.ellisn.com/api?username=nathan1258&show_icons=true&hide_border=true" />
-
-</details>
+<img align="left" alt="nathan's GitHub Stats" src="https://git.ellisn.com/api?username=nathan1258&show_icons=true&hide_border=true" />
 
 [website]: https://ellisn.com
 [twitter]: https://twitter.com/ellisn12581
