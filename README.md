@@ -40,8 +40,7 @@
 
 ---
 
-<details>
-  <summary>:zap: My Activity</summary>
+### ⚡️ My Activity
   
 <!--START_SECTION:waka-->
 ```text
@@ -49,7 +48,6 @@ No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
-</details>
 
 <details>
   <summary>:zap: My GitHub Stats (starting to use GitHub more, gimme a chance)</summary>
