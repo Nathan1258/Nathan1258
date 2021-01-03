@@ -4,7 +4,7 @@
 
 - 📚 I like to learn new things and be apart of multiple projects
 - 🥅 Goals: Contribute more to Open Source projects and learn C++
-- ⚡ Fun fact: Despite my passion, I love the gym 💪
+- ⚡ Despite my passion, I love the gym 💪
 
 ### My socials if you'd like to stalk me 😊:
 
