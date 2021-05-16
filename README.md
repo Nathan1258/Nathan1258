@@ -44,7 +44,7 @@
   
 <!--START_SECTION:waka-->
 ```text
-JavaScript   8 mins          ████████████████████████▓   98.57 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
