@@ -44,9 +44,7 @@
   
 <!--START_SECTION:waka-->
 ```text
-Python       1 hr 3 mins     ███████████████████████░░   91.83 % 
-JSON         4 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
-JavaScript   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
