@@ -43,10 +43,13 @@
 ### ⚡️ My Activity
   
 <!--START_SECTION:waka-->
+
 ```text
-JavaScript   2 hrs 10 mins   ████████████████████████▓   98.77 % 
-HTML         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
+JavaScript   2 hrs 10 mins   ████████████████████████▓   98.77 %
+HTML         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
+TypeScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
 ```
+
 <!--END_SECTION:waka-->
 
 
