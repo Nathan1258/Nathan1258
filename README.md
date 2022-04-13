@@ -1,19 +1,14 @@
 ## Hello, I'm Nathan 👋
 
-### I'm currently in the last year of my A-Levels (Physics, Computer Science (doh) and IT). As my main hobby I like to play with technologies and develop Software, manage my own server, create apps etc. My current project is to bring the smart home into one app, utilizing the cloud (my server), an Raspberry Pi (which acts as a centeral hub) and a different range of apps that will run on the users broswer of choice and their phone (currently only on iOS). My next personal project will be to start the long journey of learning C++, and eventually creating my own basic Game Engine.
+### After passing all my A-levels (Physics, Computer Science (doh), and IT), I'm now a current Computer Sceince Student at Uni in Nottingham. AS my main hobby I like to play with different technologies and develop software, manage and maintain my own server and create mobile and web apps. With Uni taking a large proportion of my free time I'm currently not in any activte developement of any projects. Check out my website for all past projects I've been involved in.
 
 - 📚 I like to learn new things and be apart of multiple projects
 - 🥅 Goals: Contribute more to Open Source projects and learn C++
 - ⚡ Despite my passion, I love the gym 💪
 
-### My socials if you'd like to stalk me 😊:
-
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-
 <br />
 
-### Some Languages and Tools I'm familiar with 🧐
+### Some Languages and Tools I like to dabble with 🧐
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][website]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][website]
@@ -55,6 +50,3 @@ Text         0 secs          ░░░░░░░░░░░░░░░░░
 ### 😅 My GitHub Stats (starting to use GitHub more, gimme a chance)
 
 <img align="left" alt="nathan's GitHub Stats" src="https://git.ellisn.com/api?username=nathan1258&show_icons=true&hide_border=true" />
-
-[website]: https://ellisn.com
-[twitter]: https://twitter.com/ellisn12581
