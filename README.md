@@ -39,8 +39,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   1 hr 50 mins    █████████████████████████   99.89 %
-TypeScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+JavaScript   12 mins         █████████████████████████   100.00 %
 Docker       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
