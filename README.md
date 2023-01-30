@@ -45,9 +45,4 @@ JavaScript   1 min           ███████▒░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-
-### 😅 My GitHub Stats (starting to use GitHub more, gimme a chance)
-
-<img align="left" alt="nathan's GitHub Stats" src="https://git.ellisn.com/api?username=nathan1258&show_icons=true&hide_border=true" />
-
 [website]: https://ellisn.com
