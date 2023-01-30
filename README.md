@@ -1,6 +1,6 @@
 ## Hello, I'm Nathan 👋
 
-### After passing all my A-levels (Physics, Computer Science (doh), and IT), I'm now a current Computer Sceince Student at Uni in Nottingham. AS my main hobby I like to play with different technologies and develop software, manage and maintain my own server and create mobile and web apps. With Uni taking a large proportion of my free time I'm currently not in any activte developement of any projects. Check out my website for all past projects I've been involved in.
+### I'm 20 years old and currently studying Computer Science at Nottingham Trent Univeristy. I plan to acheive a Masters Degree at the end of my Education journey. I describe myself as a passionate developer who loves working within teams, creating projects and contributing to open source code. Aside from my studying for my degree, and my part-time job working at Marks and Spencers, I love to work on personal and commerical projects to improve on my overall knowledge and developing skills.
 
 - 📚 I like to learn new things and be apart of multiple projects
 - 🥅 Goals: Contribute more to Open Source projects and learn C++
