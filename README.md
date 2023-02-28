@@ -34,7 +34,7 @@
 
 ---
 
-### ⚡️ My Activity
+### ⚡️ My activity this month
   
 <!--START_SECTION:waka-->
 
