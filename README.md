@@ -39,7 +39,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Docker   16 mins         █████████████████████████   100.00 %
+Other    31 mins         ████████████████▒░░░░░░░░   65.25 %
 ```
 
 <!--END_SECTION:waka-->
