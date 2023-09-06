@@ -39,9 +39,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Other          6 mins          █████████████████████▓░░░   87.28 %
-Python         0 secs          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.16 %
-ActionScript   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.56 %
+Other          0 secs          █████████████▒░░░░░░░░░░░   53.17 %
+ActionScript   0 secs          ██████████▒░░░░░░░░░░░░░░   41.06 %
+Python         0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.77 %
 ```
 
 <!--END_SECTION:waka-->
