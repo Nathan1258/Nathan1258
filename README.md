@@ -39,11 +39,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Makefile   1 hr 40 mins    ████████████░░░░░░░░░░░░░   47.82 %
-Assembly   1 hr 16 mins    █████████░░░░░░░░░░░░░░░░   36.13 %
-C          33 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.77 %
-Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
-INI        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
