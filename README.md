@@ -39,11 +39,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript       2 hrs 31 mins   ██████████████████████░░░   87.72 %
-GitIgnore file   7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 %
-Markdown         7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 %
-Other            5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.14 %
-Docker           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
+JavaScript       2 hrs 4 mins    ██████████████████████▒░░   89.08 %
+Markdown         7 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.47 %
+GitIgnore file   7 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.28 %
+Other            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
+JSON             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
