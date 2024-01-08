@@ -1,6 +1,6 @@
 ## Hello, I'm Nathan 👋
 
-### I'm 20 years old and currently studying Computer Science at Nottingham Trent Univeristy. I plan to acheive a Masters Degree at the end of my Education journey. I describe myself as a passionate developer who loves working within teams, creating projects and contributing to open source code. Aside from my studying for my degree, and my part-time job working at Marks and Spencers, I love to work on personal and commerical projects to improve on my overall knowledge and developing skills.
+### I'm 21 years old and currently studying Computer Science at Nottingham Trent Univeristy. I plan to acheive a Masters Degree at the end of my Education journey. I describe myself as a passionate developer who loves working within teams, creating projects and contributing to open source code. Aside from my studying for my degree, and my part-time job working at Marks and Spencers, I love to work on personal and commerical projects to improve on my overall knowledge and developing skills.
 
 - 📚 I like to learn new things and be apart of multiple projects
 - 🥅 Goals: Contribute more to Open Source projects and learn C++
