@@ -39,11 +39,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript       16 hrs 23 mins  ███████████████████████▓░   94.07 %
-Markdown         1 hr            █▒░░░░░░░░░░░░░░░░░░░░░░░   05.75 %
-GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
-.env file        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
-JSON             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+JavaScript       10 hrs 47 mins  ████████████████████████░   96.16 %
+Markdown         24 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 %
+GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
+JSON             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 ```
 
 <!--END_SECTION:waka-->
