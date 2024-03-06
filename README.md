@@ -39,7 +39,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Other   6 mins          █████████████████████████   100.00 %
+Jupyter          24 mins         ███████████████████▒░░░░░   76.88 %
+Other            6 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.44 %
+Python           0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.06 %
+GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 %
 ```
 
 <!--END_SECTION:waka-->
