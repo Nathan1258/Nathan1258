@@ -39,10 +39,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript       1 hr 11 mins    █████████████████████▒░░░   84.74 %
-Go               10 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.15 %
-GitIgnore file   2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.07 %
-go.mod           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+JavaScript   1 hr 53 mins    █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
