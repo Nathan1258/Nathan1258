@@ -1,6 +1,6 @@
 ## Hello, I'm Nathan 👋
 
-### I'm 21 years old and currently studying Computer Science in Nottingham. I describe myself as a passionate developer who loves working within teams, creating projects and contributing to open source code. I love to work on personal and commerical projects to improve on my overall knowledge and developing skills.
+### I'm 21 years old and currently work at ETAS (Bosch) as a Software Engineer. I describe myself as a passionate developer who loves working within teams, creating projects and contributing to open source code. I love to work on personal and commerical projects to improve on my overall knowledge and developing skills.
 
 - 📚 I like to learn new things and be apart of multiple projects
 - 🥅 Goals: Contribute more to Open Source projects and learn C++
