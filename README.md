@@ -39,8 +39,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   9 mins          ███████████████▒░░░░░░░░░   60.83 %
-YAML         6 mins          █████████▓░░░░░░░░░░░░░░░   39.17 %
+JavaScript   9 mins          ███████████████░░░░░░░░░░   60.40 %
+YAML         6 mins          ██████████░░░░░░░░░░░░░░░   39.60 %
 ```
 
 <!--END_SECTION:waka-->
