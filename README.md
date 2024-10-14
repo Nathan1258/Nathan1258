@@ -9,8 +9,6 @@
 <br />
 <br />
 
-![](https://api.visitorbadge.io/api/VisitorHit?user=nathan1258&repo=github-visitors-badge&countColor=%237B1E7A)
-
 ---
 
 ### ⚡️ My activity this month
