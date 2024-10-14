@@ -32,7 +32,7 @@
 <br />
 <br />
 
-![Visits](https://img.shields.io/badge/Visits-13261-blue)
+![](https://api.visitorbadge.io/api/VisitorHit?user=nathan1258&repo=github-visitors-badge&countColor=%237B1E7A)
 
 ---
 
