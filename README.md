@@ -39,7 +39,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   2 hrs 17 mins   █████████████████████████   100.00 %
+Swift            4 hrs 59 mins   █████████████░░░░░░░░░░░░   52.02 %
+JavaScript       2 hrs 23 mins   ██████▒░░░░░░░░░░░░░░░░░░   24.99 %
+Firebase Rules   2 hrs 6 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.93 %
+Text             5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
+Other            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
 ```
 
 <!--END_SECTION:waka-->
