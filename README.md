@@ -32,6 +32,8 @@
 <br />
 <br />
 
+![Visits](https://img.shields.io/badge/Visits-13261-blue)
+
 ---
 
 ### ⚡️ My activity this month
