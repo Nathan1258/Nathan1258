@@ -1,6 +1,6 @@
 
 <h2>Hello! I'm Nathan Ellis 👋</h2>
-I am currently pursuing a Master's degree in Applied Data Science while working as a Software Engineer at [ETAS](https://etas.com/en). In my free time, I love to contribute to open source, go to the gym and play Rugby.
+I am currently pursuing a Master's degree in Applied Data Science while working as a Software Engineer at [ETAS](https://etas.com/en) (Bosch). In my free time, I love to contribute to open source, go to the gym and play Rugby.
 
 <br/>
 
