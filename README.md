@@ -23,11 +23,9 @@ Overload is a new project that I am currently working on. I believe that all of 
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript       1 hr 6 mins     ████████████████████░░░░░   80.06 %
-TypeScript       10 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.89 %
-GitIgnore file   4 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.73 %
-JSON             0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.08 %
-HTML             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
+JavaScript       1 hr 6 mins     ███████████████████████░░   92.07 %
+GitIgnore file   4 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.67 %
+JSON             0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.26 %
 ```
 
 <!--END_SECTION:waka-->
