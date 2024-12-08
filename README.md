@@ -23,8 +23,8 @@ Overload is a new project that I am currently working on. I believe that all of 
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   1 hr 30 mins    ███████████████████████▒░   93.68 %
-Other        6 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.32 %
+JavaScript   56 mins         ██████████████████████▓░░   90.23 %
+Other        6 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.77 %
 ```
 
 <!--END_SECTION:waka-->
