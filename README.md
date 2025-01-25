@@ -23,9 +23,7 @@ Overload is a new project that I am currently working on. I believe that all of 
 <!--START_SECTION:waka-->
 
 ```txt
-Jupyter   1 hr 11 mins    ███████████████████████▓░   94.53 %
-Python    3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.00 %
-CSV/TSV   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
