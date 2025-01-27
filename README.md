@@ -23,7 +23,7 @@ Overload is a new project that I am currently working on. I believe that all of 
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Other   14 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
