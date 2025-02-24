@@ -23,11 +23,10 @@ Overload is a new project that I am currently working on. I believe that all of 
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript       10 hrs 52 mins  ██████████████████▒░░░░░░   73.67 %
-Other            2 hrs 17 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.50 %
-YAML             1 hr 11 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 %
-TypeScript       11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.35 %
-Firebase Rules   9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 %
+JavaScript       6 hrs 39 mins   █████████████████░░░░░░░░   67.42 %
+Other            1 hr 51 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.90 %
+YAML             1 hr 11 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.00 %
+Firebase Rules   9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.68 %
 ```
 
 <!--END_SECTION:waka-->
