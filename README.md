@@ -23,10 +23,10 @@ Overload is a new project that I am currently working on. I believe that all of 
 <!--START_SECTION:waka-->
 
 ```txt
-Terraform    37 mins         ██████████████████▓░░░░░░   74.47 %
-Bash         6 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.54 %
-JavaScript   4 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.78 %
-Python       1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 %
+Terraform    37 mins         ██████████████████▓░░░░░░   74.61 %
+Bash         6 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.56 %
+JavaScript   4 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.61 %
+Python       1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 %
 Text         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
 ```
 
