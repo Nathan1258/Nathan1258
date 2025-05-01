@@ -23,11 +23,8 @@ Overload is a new project that I am currently working on. I believe that all of 
 <!--START_SECTION:waka-->
 
 ```txt
-Other              13 mins         ██████████░░░░░░░░░░░░░░░   40.53 %
-Python             11 mins         █████████░░░░░░░░░░░░░░░░   36.14 %
-Text               2 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.02 %
-Requirements.txt   2 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.10 %
-JavaScript         1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.56 %
+Other        13 mins         ██████████████████████░░░   87.93 %
+JavaScript   1 min           ███░░░░░░░░░░░░░░░░░░░░░░   12.07 %
 ```
 
 <!--END_SECTION:waka-->
