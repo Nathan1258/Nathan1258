@@ -1,13 +1,13 @@
 
-<h2>Hello! I'm Nathan Ellis 👋</h2>
+<h2>Hello! I'm Nathan 👋</h2>
 
 I am currently pursuing a Master's degree in Applied Data Science while working as a Software Engineer at [ETAS](https://etas.com/en) (Bosch). In my free time, I love to contribute to open source, go to the gym and play Rugby.
 
 <br/>
 
-### 💪 Founder of OVERLOAD Workout
+### 💪 Founder of OVERLOAD WORKOUT
 
-Overload is a new project that I am currently working on. I believe that all of my previous projects have provided me with the knowledge and experience necessary to create this innovative and intelligent fitness tracker. I have been working on this project for the past year and am eagerly anticipating its public release early next year. You can stay informed about its development and sign up to the beta on its website: [https://overloadworkout.com](https://overloadworkout.com).
+Overload Workout is a new project that I am currently working on. I believe that all of my previous projects have provided me with the knowledge and experience necessary to create this innovative and intelligent fitness tracker. I have been working on this project for the past year and am eagerly anticipating its public release early next year. You can stay informed about its development and sign up to the beta on its website: [https://overloadworkout.com](https://overloadworkout.com).
 
 <br/>
 
