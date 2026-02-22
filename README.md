@@ -13,6 +13,7 @@ Overload Workout is a new project that I am currently working on. I believe that
 
 ### 📝 Other projects
 
+- 💽 <b>Anchor Backup</b> - An opensource macOS backup utility allowing to easily backup iCloud Drive & Photos to a local or S3-compatible destination with optional encryption. It's available on [GitHub](https://github.com/Nathan1258/anchor) if you'd like to contribute or look at the code or on the [Mac App Store](https://apps.apple.com/gb/app/anchor/id6758733462).
 - ⛅️ <b>Menubar Weather</b> - An opensource macOS menubar weather app I created over the weekend which enables users to quickly glance at the current weather straight from the menubar. It's available on [GitHub](https://github.com/Nathan1258/MenuBar-Weather) if you'd like to contribute or look at the code or on the [Mac App Store](https://apps.apple.com/us/app/menubar-weather/id1662381447).
 - 🛎️ <b>Cloud Notify</b> - A simple app I published in response to my own needs. I needed a simple & secure way to send notifications to my devices from things like bash scripts and code to notify me of events. Unlike webhooks, Cloud Notify creates a single link that reacts to GET or POST containing all data needed to give the user detailed notifications making it the most simple event notifier there is. It's available on the [App Store](https://apps.apple.com/gb/app/cloud-notify/id1549955568) and the [Play Store](https://ellisn.com)
 
