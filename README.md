@@ -1,7 +1,7 @@
 
 <h2>Hello! I'm Nathan 👋</h2>
 
-I am currently pursuing a Master's degree in Applied Data Science while working as a Software Engineer at [ETAS](https://etas.com/en) (Bosch). In my free time, I love to contribute to open source, go to the gym and play Rugby.
+I am currently pursuing a Master's degree in Applied Data Science while working as a Software Engineer at [ETAS](https://etas.com/en). In my free time, I love to contribute to open source, and going to the gym.
 
 <br/>
 
@@ -40,10 +40,5 @@ No activity tracked
     ✉️
   </a>
   &nbsp;
-  <!-- LinkedIn --> 
-  <a href="https://www.linkedin.com/in/nathan1258/" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="25" height="25" style="vertical-align: middle;" />
-  </a>
-  <br><br>
   <em>© 2024 Nathan Ellis</em>
 </div>
