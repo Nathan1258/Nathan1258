@@ -1,8 +1,5 @@
 
 <h2>Hello! I'm Nathan 👋</h2>
-
-I am currently pursuing a Master's degree in Applied Data Science while working as a Software Engineer at [ETAS](https://etas.com/en). In my free time, I love to contribute to open source, and going to the gym.
-
 <br/>
 
 ### 💪 Founder of OVERLOAD WORKOUT
